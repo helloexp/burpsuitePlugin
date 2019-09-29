@@ -11,4 +11,9 @@
 ![](../images/git使用01.png)
 
 
+Head 部分
 这是目前再master 分支上进行的修改
+=======
+
+这是在 分支test 进行的修改
+test 部分
