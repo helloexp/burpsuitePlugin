@@ -33,3 +33,5 @@ test 部分
     git merge：合并分支
     git reset：恢复版本
     git log：查看日志
+	git remote add origin git@server-name:path/repo-name.git	关联远程仓库
+	git push -u origin master	推送master 分支的所有内容到远程仓库（origin）
